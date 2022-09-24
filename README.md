@@ -1,15 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Free+Rdp+Windows+10)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71F1F&width=435&lines=How+to+use+)](https://git.io/typing-svg)
 * 🌍 [Github](https://github.com/DemonKate-King)
+* 🌍 [remotedesktop](https://remotedesktop.google.com/headless)
 * 🌍 [buymeacoffee](https://www.buymeacoffee.com/HoangDeveloper)
+* 🌍 [workflows](https://github.com/DemonKate-King/Rdp-Windows/actions/workflows/Windows-CRD.yml)
+
  ### Test Now~#:
 Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
 
 Input the following code in the fields.
 
-Get the Windows (Powershell) command from here:
+Get the Windows (Powershell) command from remotedesktop
 
-https://remotedesktop.google.com/headless
 
 Enter you Six digit Pin code to Login
 
