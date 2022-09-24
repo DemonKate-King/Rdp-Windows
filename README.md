@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F71F1F&width=435&lines=How+to+use+)](https://git.io/typing-svg)
 * 🌍 [Github](https://github.com/DemonKate-King)
 * 🌍 [buymeacoffee](https://www.buymeacoffee.com/HoangDeveloper)
-#Test Now
+ ### Test Now~#:
 Just Fork this Repository, Go to Actions tab, Select the Windows-CRD workflow. Then select Run Workflow fill the following data in CRD Code and your Pin in the fields. After that, Press Start.
 
 Input the following code in the fields.
